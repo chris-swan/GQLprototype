@@ -1,7 +1,14 @@
-Steps to start:
+# Basic GraphQL example
 
-From root of directory:
+Basically a spot for some chicken scratching, and setting it up on github
+to have something sharable.
+## install
 
-1) $ npm install
-
-2) $ node server.js
+```
+$ npm i
+```
+---
+## start
+```
+npm start
+```
